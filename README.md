@@ -8,3 +8,10 @@ To use the Notebook:
 3. Open Anaconda and launch <b>Jupyter Notebook</b>
 4. Navigate to where these files are saved in the Jupyter Notebook interface
 5. Open the notebook
+
+## Necessary Packages
+To install the packages on Windows:
+1. Open the terminal
+2. `pip install matplotlib`
+3. `pip install numpy`
+4. `pip install scipy`
