@@ -1,4 +1,5 @@
 # The Quantum Glissando Effect
+*Note: This Notebook is compatible with Jupiter Notebook v6.5.3*
 
 To use the Notebook:
 1. Download this repository to your computer. This can be achieved in two main ways:
@@ -21,5 +22,5 @@ To install the packages through the terminal:
 2. `pip install numpy`
 3. `pip install scipy`
 
-If you are using Jupyter Notebook v7.0+ you must also install:
+If you are using Jupyter Notebook v7.0+ (*Note: this version is not maintaned*) you must also install:
 1. `pip install ipympl`
